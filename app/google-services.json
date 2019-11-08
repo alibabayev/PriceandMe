@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64556499337",
+    "firebase_url": "https://pandmevebviewtest.firebaseio.com",
+    "project_id": "pandmevebviewtest",
+    "storage_bucket": "pandmevebviewtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64556499337:android:d3eee58dc5617a97",
+        "android_client_info": {
+          "package_name": "price.and.me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64556499337-cll9umjphg33jtv0jsk1bqarasij26g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "price.and.me",
+            "certificate_hash": "83b97f41432f8cdfd77a9f72ab46d98ac9ef98b6"
+          }
+        },
+        {
+          "client_id": "64556499337-39d82vmadp3gcsaeqe3npf4r7ucvm7t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvzOVwEHfTo2QDdxMH2NhG-IN6tfcEpsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64556499337-39d82vmadp3gcsaeqe3npf4r7ucvm7t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
